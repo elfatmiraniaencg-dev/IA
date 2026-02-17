@@ -1,11 +1,12 @@
 
 # Rapport: Comment Amazon génère des bénéfices grâce à l'IA dans les services financiers
 
+## RANIA EL FATMI
 <p align="center">
   <img src="rania.jpeg" width="250">
 </p>
 
-
+## ABIR EL AMRAOUI
 <p align="center">
   <img src="abir.jpeg" width="250">
 </p>
