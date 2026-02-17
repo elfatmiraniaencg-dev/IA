@@ -6,6 +6,9 @@
 </p>
 
 
+<p align="center">
+  <img src="abir.jpeg" width="250">
+</p>
  
 ## C'est qui Amazon ?
 
