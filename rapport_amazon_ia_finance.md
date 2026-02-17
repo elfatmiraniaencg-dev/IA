@@ -1,6 +1,9 @@
 
 # Rapport: Comment Amazon génère des bénéfices grâce à l'IA dans les services financiers
 
+<p align="center">
+  <img src="rania.jpeg" width="250">
+</p>
 
 
  
